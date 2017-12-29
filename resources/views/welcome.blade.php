@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>RBAC</title>
 
         <!-- Styles -->
         <style>
@@ -72,7 +72,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    RBAC
                 </div>
 
                 <div class="links">

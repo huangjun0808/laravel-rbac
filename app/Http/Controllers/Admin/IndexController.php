@@ -3,11 +3,10 @@
 namespace App\Http\Controllers\Admin;
 
 use Arcanedev\LogViewer\Http\Controllers\LogViewerController;
-use Illuminate\Http\Request;
 use Illuminate\Foundation\Bus\DispatchesJobs;
 use Illuminate\Foundation\Validation\ValidatesRequests;
 use Illuminate\Foundation\Auth\Access\AuthorizesRequests;
-use App\Http\Requests;
+use Log;
 
 class IndexController extends LogViewerController
 {

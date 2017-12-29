@@ -16,7 +16,7 @@
 <body class="hold-transition login-page">
     <div class="login-box">
         <div class="login-logo">
-            <b>Admin</b>LTE
+            <b>RBAC</b>权限管理系统
         </div>
         <div class="login-box-body">
             @if(count($errors) > 0)

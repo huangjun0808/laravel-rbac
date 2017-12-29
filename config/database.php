@@ -54,7 +54,6 @@ return [
 
         'mysql' => [
             'driver' => 'mysql',
-            'unix_socket' =>  '/Applications/MAMP/tmp/mysql/mysql.sock',
             'host' => env('DB_HOST', 'localhost'),
             'port' => env('DB_PORT', '3306'),
             'database' => env('DB_DATABASE', 'forge'),
